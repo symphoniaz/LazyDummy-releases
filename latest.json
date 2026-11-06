@@ -1,0 +1,9 @@
+{
+  "version": "1.0.24",
+  "url": "https://raw.githubusercontent.com/symphoniaz/LazyDummy-releases/main/LazyDummy-1.0.24.msi",
+  "sha256": "365df1289d9abd1e9f6a997f89a6bd1ad948235bfdcd775dc67347592e78e43c",
+  "size": 79224684,
+  "notesTh": "AI คิดตามระดับ (ง่ายเร็ว ยากคิดนานขึ้น) และเก่งขึ้น, รางวัลเหรียญ/EXP ตามอันดับตอนจบเกมทุกห้อง (รวมห้อง AI), ปุ่มเลือกโหมดมีลูกเล่น",
+  "notesEn": "AI thinks by level and plays better, placement coins/EXP at game end in every room, animated mode toggle",
+  "date": "2026-11-06"
+}
